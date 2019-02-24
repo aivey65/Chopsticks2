@@ -7,7 +7,7 @@ hackathon.
 The app also does not work. If you want to make it work, go ahead.
 
 ## How to Play Chopsticks
-Each player starts with one finger up on both hands. Whoever's turn it is, by tapping another person's hand, the player adds the number of 
+Each player starts with one finger up on each hand. Whoever's turn it is, by tapping another person's hand, the player adds the number of 
 fingers from the hand they tappeed to their own (Ex: If the current player has 2 fingers up and they tap someone with 3 fingers up, 
 they change their hand so that it now has 5 fingers up, or 2 + 3.)
 
